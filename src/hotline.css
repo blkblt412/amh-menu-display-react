@@ -1,0 +1,37 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 300px);
+    grid-template-rows: repeat(10, 10px);
+}
+
+.soup {
+    grid-area: 3/1;
+}
+
+.soupTitle {
+    grid-area: 2/1;
+}
+
+.salad {
+    
+}
+
+.saladTitle {
+    grid-area: 6/1;
+}
+
+.special {
+
+}
+
+.specialTitle {
+
+}
+
+.dessert {
+
+}
+
+.dessertTitle {
+
+}
